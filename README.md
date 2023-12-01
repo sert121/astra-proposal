@@ -1,4 +1,4 @@
-# astra-proposal
+# Time-travelling with Language models.
 
 Each file pertains to the task described in the spec-sheet by Owain Evans. 
 In task 1, the experiment mostly focuses on designing one classification task that the language model performs really well. 
